@@ -1,2 +1,2 @@
-pydantic
-pymysql
+pydantic==2.11.4
+PyMySQL==1.1.1
